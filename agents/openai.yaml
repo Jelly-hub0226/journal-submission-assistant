@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Submission Assistant"
+  short_description: "Find, evaluate, and match academic journals. Score your article and get tiered recommendations with acceptance probability."
+  default_prompt: "I need help with academic journal selection, article-to-journal matching, or evaluating journal quality and submission difficulty."
